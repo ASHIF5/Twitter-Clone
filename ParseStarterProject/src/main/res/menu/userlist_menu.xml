@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item   android:title="Tweet"
+        android:id="@+id/tweet"
+        ></item>
+
+    <item android:title="View Feed"
+        android:id="@+id/viewFeed"
+        ></item>
+
+    <item android:title="Sign-out"
+        android:id="@+id/signOut"
+        ></item>
+    <item android:title="Help"
+        android:id="@+id/help"
+        ></item>
+
+</menu>
